@@ -9,6 +9,5 @@
 
 飲みすぎ防止につながる
 健康に気を遣うようになる
-
 言語python
 DB:SQLAlchemy
